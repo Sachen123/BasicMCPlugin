@@ -1,0 +1,20 @@
+name: Tutorial
+version: 1.0
+main: de.me.tutorial.main.Main
+
+
+commands:
+   heal:
+      description: Damit kannst du dich heilen.
+   about:
+      description:
+   setspawn:
+      description: Setze den Spawn.
+   spawn:
+      description: Teleportiere dich zum Spawn.
+   party:
+      description: Starte eine Party.
+   hub:
+      description:
+   lobby:
+      description:
